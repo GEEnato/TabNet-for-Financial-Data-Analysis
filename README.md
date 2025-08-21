@@ -25,7 +25,7 @@ The dataset used is the publicly available [Kaggle Credit Card Fraud Detection d
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/GEEnato/TabNet-for-Financial-Data-Analysis.git
+git clone [https://github.com/GEEnato/TabNet-for-Financial-Data-Analysis](https://github.com/GEEnato/TabNet-for-Financial-Data-Analysis.git)
 cd tabnet-financial-analysis
 pip install -r requirements.txt
 ```
