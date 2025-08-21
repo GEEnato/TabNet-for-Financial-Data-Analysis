@@ -44,4 +44,4 @@ pip install -r requirements.txt
 ##  Author
 Grace Enato  
 MSc Financial Modelling & Optimization, University of Edinburgh  
-Research focus: **Machine Learning for Financial Data Analysis**
+Research focus: **TabNet for Financial Data Analysis**
